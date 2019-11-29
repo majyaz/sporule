@@ -1,9 +1,9 @@
 const Config = {
-    site: "Sporule",
+    site: "Maj the Man",
     subTitle:"SubTitle",
-    url: "https://www.sporule.com",
-    description: "Sporule is a micro blog site",
-    keywords: "micro blog",
+    url: "https://majidyaz.netlify.com",
+    description: "Daily Moan",
+    keywords: "Roy",
     logo: "https://i.imgur.com/1UDpSHj.png",
     disqusShortname: "yourdisqusshortname",
     postPerPage: 8,
